@@ -19,11 +19,11 @@ O sistema permite que o usuário verifique o status de um ticket específico, in
 O sistema apresenta um menu interativo, permitindo que o usuário escolha entre as opções disponíveis de forma intuitiva.
 
 # 💻 Em Execução
-![Captura de tela 2024-10-07 172536](https://github.com/user-attachments/assets/f948eead-873a-42ac-a0b9-f1b95caa94b4)
-
-![Captura de tela 2024-10-07 172547](https://github.com/user-attachments/assets/95fb0147-767a-4c9f-9807-8662fdfe87e4)
+![Captura de tela 2024-10-07 190906](https://github.com/user-attachments/assets/13af2cfc-deab-4ba1-adcf-1a59207e5b3f)
+![Captura de tela 2024-10-07 190931](https://github.com/user-attachments/assets/8b09a8ea-6c3f-4acc-a312-8dc736d8f2d4)
 
 # Como utilizar o codigo
+
 
 (https://github.com/TheoAlencar/Desafio-Estacionamento)
 
